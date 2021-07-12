@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Tom Stovall - aka [stovak][website] 👋
 
-<!--
-**stovak/stovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=stovak.net&style=for-the-badge&url=https%3A%2F%2Fstovak.net)](https://stovak.net)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stovak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstovak&screen_name=stovak)
 
-Here are some ideas to get you started:
+## I'm a Dog Father, Developer, and Screenwriter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 My Book: [Drupal 7 Mobile Web Development Beginner’s Guide][book]!
+- 🌱 I’m currently learning whatever I can 🤣
+- 👯 I’m looking to collaborate with other developers and/or screenwriters
+- 🥅 2021 Goals: Contribute more to Open Source projects, write one pilot and one feature,
+- ⚡ Fun fact: I love to write. Anything. Code, fiction, tweets, comedy whatever.
+
+### Connect with me:
+
+[<img align="left" alt="stovak.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="stovak | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="stovak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="stovak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="stovak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
+[website]: https://stovak.net
+[twitter]: https://twitter.com/stovak
+[youtube]: https://youtube.com/stovak
+[instagram]: https://instagram.com/stovak
+[linkedin]: https://linkedin.com/in/stovak
+[book]: https://www.amazon.com/Drupal-Mobile-Development-Beginners-Guide/dp/184951562X
