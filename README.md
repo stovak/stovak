@@ -18,6 +18,8 @@
 [<img align="left" alt="stovak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="stovak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stovak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="stovak | Vimeo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vimeo.svg" />][vimeo]
+
 
 ---
 
@@ -27,3 +29,4 @@
 [instagram]: https://instagram.com/stovak
 [linkedin]: https://linkedin.com/in/stovak
 [book]: https://www.amazon.com/Drupal-Mobile-Development-Beginners-Guide/dp/184951562X
+[vimeo]: https://vimeo.com/user69094180
