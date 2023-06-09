@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=stovak.net&style=for-the-badge&url=https%3A%2F%2Fstovak.net)](https://stovak.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/stovak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstovak&screen_name=stovak)
 
-## I'm a Husband, Dog Father, Developer, and Screenwriter
+## I'm a Husband, Dog Father, Developer, Writer/Director
 
 - 🔭 My Book: [Drupal 7 Mobile Web Development Beginner’s Guide][book]!
 - 🌱 I’m currently learning whatever I can 🤣
